@@ -1,0 +1,41 @@
+
+body {
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+}
+
+.ttt ul {
+  width: 300px;
+}
+
+.unclicked {
+  background: gray;
+}
+
+.unclicked:hover {
+  background: yellow;
+}
+
+li {
+  background: #fff;
+  text-align: center;
+  padding-top: 25px;
+  font-size: 44px;
+  font-weight: 700;
+  font-family: sans-serif;
+  width: 100px;
+  height: 100px;
+  float: left;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+
+.winner {
+  background-color: green;
+  color: white;
+}
+
+.loser {
+  color: red;
+}
