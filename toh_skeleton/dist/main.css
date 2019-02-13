@@ -1,0 +1,27 @@
+ul {
+  display: inline-block;
+  width: 100px;
+  border-bottom: 20px solid black;
+  margin-right: 10px;
+  padding-top: 100px;
+}
+
+li {
+  height: 10px;
+  margin: 0 auto;
+}
+
+.disc-1 {
+  width: 50%;
+  background: red;
+}
+
+.disc-2 {
+  width: 75%;
+  background: blue;
+}
+
+.disc-3 {
+  width: 90%;
+  background: green;
+}
